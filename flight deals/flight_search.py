@@ -3,8 +3,8 @@ from data_manager import DataManager
 from flight_data import FlightData
 
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = "oG9fa8kjineRt2635ymwU4zb0uIrEuuF"
-kiwi_ID = "patryk4150flightdeals"
+TEQUILA_API_KEY = TEQUILAAPIKEY
+kiwi_ID = KIWIID
 
 SEARCH_ENDPOINT = "https://tequila-api.kiwi.com"
 
